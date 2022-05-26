@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="32" android:compileSdkVersionCodename="12" package="dev.pdesire.pdx206.gsi.overlay.systemui" platformBuildVersionCode="32" platformBuildVersionName="12">
+    <application android:extractNativeLibs="false" android:usesNonSdkApi="true"/>
+    <overlay android:isStatic="true" android:priority="454" android:requiredSystemPropertyName="ro.vendor.build.fingerprint" android:requiredSystemPropertyValue="+Sony/pdx206/pdx206*" android:targetPackage="com.android.systemui"/>
+</manifest>

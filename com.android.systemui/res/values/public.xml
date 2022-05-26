@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="bool" name="doze_display_state_supported" id="0x7f020000" />
+    <public type="bool" name="doze_suspend_display_state_supported" id="0x7f020001" />
+    <public type="bool" name="doze_pickup_performs_proximity_check" id="0x7f020002" />
+    <public type="bool" name="doze_double_tap_reports_touch_coordinates" id="0x7f020003" />
+    <public type="bool" name="config_statusBarBurnInProtection" id="0x7f020004" />
+</resources>
