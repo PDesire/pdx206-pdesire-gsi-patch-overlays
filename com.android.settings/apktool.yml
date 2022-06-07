@@ -1,0 +1,23 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: treble-overlay-sony-pdx206-settings.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '32'
+  targetSdkVersion: '32'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.6.1
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'
